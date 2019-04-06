@@ -3,19 +3,19 @@
     "list" : [
         {
             "name" : "Pitch naming drill",
-            "filename" : "masterclass_00_01.json"
+            "filename" : "masterclass_00_01"
         },
         {
             "name" : "Pitch identify drill",
-            "filename" : "masterclass_00_02.json"
+            "filename" : "masterclass_00_02"
         },
         {
             "name" : "Meditation",
-            "filename" : "masterclass_00_03.json"
+            "filename" : "masterclass_00_03"
         },
         {
             "name" : "Audio book player",
-            "filename" : "masterclass_00_04.json"
+            "filename" : "masterclass_00_04"
         }
     ]
 }
